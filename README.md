@@ -1,2 +1,5 @@
-# movie-fight
-Search and compare your favorite movies
+# Movie Fight
+
+Search and compare your favorite movies.
+
+![](screenshot.jpg)
